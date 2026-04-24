@@ -31,6 +31,12 @@
     "plugins": [
       "expo-router",
       "expo-secure-store"
-    ]
+    ],
+    "extra": {
+      "supabaseUrl": "https://qbooubpitrgwyyvvkaay.supabase.co",
+      "eas": {
+        "projectId": "senfiapp"
+      }
+    }
   }
 }
